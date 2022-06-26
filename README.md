@@ -9,4 +9,4 @@ Slide show webpage, inspired by Apple.com<br>
 Slight fading in animations, text animation, color changing, and etc. With less code, comes with more effects.
 
 # Future work
-Inspired by this work, the improved version is <a href = "https://github.com/Li-Haowei/Scroll-Animated-Page">Scroll-Animated-Page</a>
+Inspired by this project, the improved version is <a href = "https://github.com/Li-Haowei/Scroll-Animated-Page">Scroll-Animated-Page</a>
